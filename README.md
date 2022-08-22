@@ -16,7 +16,7 @@ JavaScript project for the Leaderboard list app, built using webpack and ES6 fea
 
 ## Live Demo
 
-[Live Demo Link](/)
+[Live Demo Link](https://bejewelled-dasik-93e1e9.netlify.app/)
 
 ## Getting Started
 
